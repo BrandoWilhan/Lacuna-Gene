@@ -1,0 +1,17 @@
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\bin\Debug\net6.0\LacunaGene.exe
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\bin\Debug\net6.0\LacunaGene.deps.json
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\bin\Debug\net6.0\LacunaGene.runtimeconfig.json
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\bin\Debug\net6.0\LacunaGene.dll
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\bin\Debug\net6.0\LacunaGene.pdb
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\obj\Debug\net6.0\LacunaGene.csproj.AssemblyReference.cache
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\obj\Debug\net6.0\LacunaGene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\obj\Debug\net6.0\LacunaGene.AssemblyInfoInputs.cache
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\obj\Debug\net6.0\LacunaGene.AssemblyInfo.cs
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\obj\Debug\net6.0\LacunaGene.csproj.CoreCompileInputs.cache
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\obj\Debug\net6.0\LacunaGene.dll
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\obj\Debug\net6.0\refint\LacunaGene.dll
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\obj\Debug\net6.0\LacunaGene.pdb
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\obj\Debug\net6.0\LacunaGene.genruntimeconfig.cache
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\obj\Debug\net6.0\ref\LacunaGene.dll
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pinik\source\repos\LacunaGene\LacunaGene\obj\Debug\net6.0\LacunaGene.csproj.CopyComplete
